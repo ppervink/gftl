@@ -15,7 +15,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GFTL", "GFTL", "{FBC19E6C-0C0E-4819-8434-9493CAA78F6D}"
 	ProjectSection(SolutionItems) = preProject
 		gftl.ino = gftl.ino
-		GFTL.md = GFTL.md
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
