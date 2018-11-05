@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumbotronImageNab", "JumbotronImageNab\JumbotronImageNab.csproj", "{F90A74FC-A4DB-4FFF-A611-CF026478F674}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{3588A37B-3204-4438-95F3-DCFD10A76F65}"
+	ProjectSection(SolutionItems) = preProject
+		GFTL_Title.bmp = GFTL_Title.bmp
+		GFTL_Title.pdn = GFTL_Title.pdn
+		GFTL_Track.bmp = GFTL_Track.bmp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GFTL", "GFTL", "{FBC19E6C-0C0E-4819-8434-9493CAA78F6D}"
+	ProjectSection(SolutionItems) = preProject
+		gftl.ino = gftl.ino
+		GFTL.md = GFTL.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F90A74FC-A4DB-4FFF-A611-CF026478F674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90A74FC-A4DB-4FFF-A611-CF026478F674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90A74FC-A4DB-4FFF-A611-CF026478F674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90A74FC-A4DB-4FFF-A611-CF026478F674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01055A33-515C-454D-B78C-403552125385}
+	EndGlobalSection
+EndGlobal
